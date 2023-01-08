@@ -6,6 +6,7 @@
    
 * #### [***配置文件***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/QuantumultX/QuantumultX.conf) 
 * #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/QuantumultX)
+* 更多重写参见：[*Functional-Store-Hub*](https://github.com/I-am-R-E/Functional-Store-Hub); [*QuantumultX-Rewrite*](https://github.com/deezertidal/QuantumultX-Rewrite); [*@ddgksf2013*](https://github.com/ddgksf2013/)
    
 </details>
 
