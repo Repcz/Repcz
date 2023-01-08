@@ -1,4 +1,5 @@
 ## 自用配置文件
+> [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/Repcz)
 
 <details>
    <summary>1️⃣QuantumultX</summary>   
