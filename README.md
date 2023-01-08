@@ -13,7 +13,7 @@
 <details>
    <summary>2️⃣Shadowrocket</summary> 
    
-* #### 配置：[***Shadowrocket.conf***](https://github.com/Repcz/Profiles/blob/Master/Shadowrocket/Shadowrocket.conf) 
+* #### 配置：[***Shadowrocket.conf***]() 
    
 </details>
 
@@ -23,7 +23,7 @@
 <details>
    <summary>3️⃣Clash For Windows</summary>    
    
-* #### 配置：[***CFW.yml***](https://github.com/Repcz/Profiles/blob/Master/Clash%20For%20Windows/CFW.yml) 
+* #### 配置：[***CFW.yml***]() 
    
 </details>
 
