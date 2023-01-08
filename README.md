@@ -13,7 +13,7 @@
 <details>
    <summary>2️⃣Shadowrocket</summary> 
    
-* #### 配置：[***Shadowrocket.conf***]() 
+* #### 配置：[***Shadowrocket.conf***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/ShadowRocket/ShadowRocket.conf) 
    
 </details>
 
