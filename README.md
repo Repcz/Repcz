@@ -3,7 +3,7 @@
 <details>
    <summary>1️⃣QuantumultX</summary>   
    
-* #### 配置：[***QuantumultX.conf***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/QuantumultX/QuantumultX.conf) 
+* #### [***配置文件***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/QuantumultX/QuantumultX.conf) 
 * #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/QuantumultX)
    
 </details>
