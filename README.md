@@ -2,7 +2,7 @@
 > ***本库内容禁止公众号、自媒体进行任何形式的转载或发布***
 
 <details>
-   <summary>1️⃣QuantumultX</summary>   
+   <summary>QuantumultX</summary>   
    
 * #### [***配置文件***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/QuantumultX/QuantumultX.conf) 
 * #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/QuantumultX)
@@ -13,7 +13,7 @@
 
 
 <details>
-   <summary>2️⃣Shadowrocket</summary> 
+   <summary>Shadowrocket</summary> 
    
 * #### [***配置文件***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/ShadowRocket/ShadowRocket.conf) 
    
@@ -23,7 +23,7 @@
 
 
 <details>
-   <summary>3️⃣Clash For Windows</summary>    
+   <summary>Clash For Windows</summary>    
    
 * #### [***配置文件***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/CFW.yaml) 
    
@@ -32,8 +32,9 @@
 
 
 <details>
-  <summary>4️⃣申明</summary>
-#### 免责声明：
+  <summary>申明</summary>
+   
+ #### 免责声明：
 
 * 本项目涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
 
@@ -53,9 +54,9 @@
 
 
 <details>
-  <summary>5️⃣特别感谢</summary>
+  <summary>特别感谢</summary>
   
-#### 排名不分先后,如有遗漏请提醒补充：
+ #### 排名不分先后,如有遗漏请提醒补充：
 
 [*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@App2smile*](https://github.com/app2smile/rules)  [*@Peng-YM*](https://github.com/Peng-YM) [*@Nick-workflow*](https://github.com/Nick-workflow) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Neurogram-R*](https://github.com/Neurogram-R) [*@yjqiang*](https://github.com/yjqiang) [*@O7Y0*](https://github.com/O7Y0) [*@Choler*](https://github.com/Choler) [*@id77*](https://github.com/id77) [*@zmqcherish*](https://github.com/zmqcherish) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@kyle*](https://github.com/Xirou) [*@HotKids*](https://github.com/hotKids) [*@langkach*](https://github.com/langkhach270389) [*@lxk0301*](https://github.com/lxk0301) [*@zqzess*](https://github.com/zqzess/rule_for_quantumultX) [*@Anti-AD*](https://github.com/privacy-protection-tools/anti-AD) [*@VirgilClyne*](https://github.com/VirgilClyne/iRingo#iringo) [*@zZPiglet*](https://github.com/zZPiglet/Task/tree/master) [*@Chavyleung*](https://github.com/chavyleung) [*@tugepaopao*](https://github.com/tugepaopao/Image-Storage) [*@Yuanxsxs*](https://github.com/Yuanxsxs) [*@LovedGM*](https://github.com/LovedGM/Quantumult-X-TuBiao) [*@Semporia*](https://github.com/Semporia) [*@Koolson*](https://github.com/Koolson) [*@deezertidal*](https://github.com/deezertidal) [*@I-am-R-E*](https://github.com/I-am-R-E) [*@Hackl0us*](https://github.com/Hackl0us) [*@ddgksf2013*](https://github.com/ddgksf2013/)
 
