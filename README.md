@@ -26,6 +26,7 @@
    <summary>Clash For Windows</summary>    
    
 * #### [***配置文件***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/CFW.yaml) 
+* #### [***使用方法***](https://docs.cfw.lbyczf.com/contents/quickstart.html#打开系统代理及开机自启选项)
    
 </details>
 
