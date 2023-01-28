@@ -26,10 +26,18 @@
    <summary>Clash For Windows</summary>    
    
 * #### [***配置文件***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/CFW.yaml) 
-* #### [***使用方法***](https://docs.cfw.lbyczf.com/contents/quickstart.html#打开系统代理及开机自启选项)
+* #### [***使用方法***](https://docs.cfw.lbyczf.com/contents/quickstart.html)
    
 </details>
 
+<details>
+   <summary>Stash</summary>    
+   
+* #### [***配置文件***](https://github.com/Repcz/Open-Proflies/raw/main/Stash/Stash.yaml) 
+* #### [***使用方法***](https://stash.wiki)
+  请自行修改 **subscribe-url** 以及 **proxy-providers**
+   
+</details>
 
 
 <details>
