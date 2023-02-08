@@ -39,6 +39,14 @@
    
 </details>
 
+<details>
+   <summary>订阅转换配置</summary>    
+   
+* #### [***配置文件***](https://github.com/Repcz/Open-Proflies/raw/main/Stash/Stash.yaml](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/Repcz_Online_Full_MultiMode.ini) 
+* #### [***使用方法***]()
+  
+   
+</details>
 
 <details>
   <summary>申明</summary>
