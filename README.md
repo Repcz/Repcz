@@ -79,3 +79,32 @@
 [*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@App2smile*](https://github.com/app2smile/rules)  [*@Peng-YM*](https://github.com/Peng-YM) [*@Nick-workflow*](https://github.com/Nick-workflow) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Neurogram-R*](https://github.com/Neurogram-R) [*@yjqiang*](https://github.com/yjqiang) [*@O7Y0*](https://github.com/O7Y0) [*@Choler*](https://github.com/Choler) [*@id77*](https://github.com/id77) [*@zmqcherish*](https://github.com/zmqcherish) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@kyle*](https://github.com/Xirou) [*@HotKids*](https://github.com/hotKids) [*@langkach*](https://github.com/langkhach270389) [*@lxk0301*](https://github.com/lxk0301) [*@zqzess*](https://github.com/zqzess/rule_for_quantumultX) [*@Anti-AD*](https://github.com/privacy-protection-tools/anti-AD) [*@VirgilClyne*](https://github.com/VirgilClyne/iRingo#iringo) [*@zZPiglet*](https://github.com/zZPiglet/Task/tree/master) [*@Chavyleung*](https://github.com/chavyleung) [*@tugepaopao*](https://github.com/tugepaopao/Image-Storage) [*@Yuanxsxs*](https://github.com/Yuanxsxs) [*@LovedGM*](https://github.com/LovedGM/Quantumult-X-TuBiao) [*@Semporia*](https://github.com/Semporia) [*@Koolson*](https://github.com/Koolson) [*@deezertidal*](https://github.com/deezertidal) [*@I-am-R-E*](https://github.com/I-am-R-E) [*@Hackl0us*](https://github.com/Hackl0us) [*@ddgksf2013*](https://github.com/ddgksf2013/) [*@ACL4SSR*](https://github.com/ACL4SSR/ACL4SSR) [*不良林*](https://bulianglin.com/)
 
  </details>
+
+ <details>
+  <summary>机场推荐</summary>
+   
+> 根据自身网络环境选择，建议月付或季付
+  
+|🍼奶茶Cloud|[:link:官网](https://naichayun.xyz/#/register?code=YhLpzuZl)||
+|:--|:--:|--|
+|套餐名称|流量情况|价格|
+|🥉2000G-Apple|2000G/月|￥9/月|
+|🥈6000G-Banana|6000G/月|￥24/季|
+|🥇18000G-Cherry|18000G/月|￥60/月|
+
+
+|☄️Helium Network|[:link:官网](https://console.henet.uk/#/register?code=xbynu9qU)||
+|:--|:--:|:--:|
+|套餐名称|流量情况|价格|
+|Bronze🚀(12个月起)|200G/月|￥50/年|
+|Silver🚀(3个月起)|350G/月|￥21/季|
+|Gold🚀|540G/月|￥11/月|
+|Platinum🚀|1000G/月|￥15/月|
+|Dimon🚀|2000G/月|￥30/月|
+|200G不限时🚀|200G|￥10/一次性|
+|400G不限时🚀|400G|￥20/一次性|
+|800G不限时🚀|800G|￥40/一次性|
+
+ </details>
+
+
