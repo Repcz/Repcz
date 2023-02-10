@@ -42,7 +42,7 @@
 <details>
    <summary>订阅转换配置</summary>    
    
-* #### [***配置文件***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/Repcz_Online_Full_MultiMode.ini) 
+* #### [***配置文件***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/Ownuse_Online_Full_MultiMode.ini) 
 * #### 在线订阅转换： [***ACL4SSR***](https://acl4ssr-sub.github.io/) | [***肥羊订阅转换***](https://sub.v1.mk/)
 * #### [***自建后端***](https://github.com/tindy2013/subconverter/releases)
 * #### 使用方法参考：[***不良林的YouTube***](https://www.youtube.com/watch?v=UxvjT_nHLo4)
