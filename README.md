@@ -44,7 +44,7 @@
    
 * #### [***配置文件***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/Ownuse_Online_Full_MultiMode.ini) 
 * #### 在线订阅转换： [***ACL4SSR***](https://acl4ssr-sub.github.io/) | [***肥羊订阅转换***](https://sub.v1.mk/)
-* #### [***自建后端***](https://github.com/tindy2013/subconverter/releases)
+* #### 自建后端下载：[***subconverter***](https://github.com/tindy2013/subconverter/releases)
 * #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/Clash-For-Windows#%E8%AE%A2%E9%98%85%E9%85%8D%E7%BD%AE%E8%BD%AC%E6%8D%A2)
    
 </details>
