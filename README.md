@@ -26,7 +26,7 @@
    <summary>Clash For Windows</summary>    
    
 * #### [***配置文件***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/CFW.yaml) 
-* #### [***使用方法***](https://docs.cfw.lbyczf.com/contents/quickstart.html)
+* #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/Clash-For-Windows)
    
 </details>
 
@@ -45,7 +45,7 @@
 * #### [***配置文件***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/Ownuse_Online_Full_MultiMode.ini) 
 * #### 在线订阅转换： [***ACL4SSR***](https://acl4ssr-sub.github.io/) | [***肥羊订阅转换***](https://sub.v1.mk/)
 * #### [***自建后端***](https://github.com/tindy2013/subconverter/releases)
-* #### 使用方法参考：[***不良林的YouTube***](https://www.youtube.com/watch?v=UxvjT_nHLo4)
+* #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/Clash-For-Windows)
    
 </details>
 
