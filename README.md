@@ -85,14 +85,6 @@
   <summary>AD</summary>
    
 > 根据自身网络环境选择，建议月付或季付
-  
-|🍼奶茶Cloud|[:link:官网](https://naichayun.xyz/#/register?code=YhLpzuZl)||
-|:--|:--:|--|
-|套餐名称|流量情况|价格|
-|🥉2000G-Apple|2000G/月|￥9/月|
-|🥈6000G-Banana|6000G/月|￥24/季|
-|🥇18000G-Cherry|18000G/月|￥60/月|
-
 
 |☄️Helium Network|[:link:官网](https://console.henet.uk/#/register?code=xbynu9qU)||
 |:--|:--:|:--:|
