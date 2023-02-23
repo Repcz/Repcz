@@ -41,9 +41,8 @@
    <summary>Stash</summary>    
    
 * #### [***配置文件***](https://github.com/Repcz/Open-Proflies/raw/main/Stash/Stash.yaml) 
-* #### [***使用方法***](https://stash.wiki/get-started#%E5%AF%BC%E5%85%A5%E8%BF%9C%E7%A8%8B%E9%85%8D%E7%BD%AE)
-> 请自行替换 `subscribe-url` 和 `proxy-providers` 中的
-   `http://your-service-provider`
+* #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/Stash)
+
    
 </details>
 
