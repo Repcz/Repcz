@@ -31,6 +31,13 @@
 </details>
 
 <details>
+   <summary>Openclah</summary>    
+   
+* #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/Openclash)
+   
+</details>
+
+<details>
    <summary>Stash</summary>    
    
 * #### [***配置文件***](https://github.com/Repcz/Open-Proflies/raw/main/Stash/Stash.yaml) 
