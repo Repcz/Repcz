@@ -93,7 +93,7 @@
    
 > 根据自身网络环境选择，建议月付或季付
 
-|☄️Helium Network|[:link:官网](https://console.henet.uk/#/register?code=xbynu9qU)||
+|☄️Helium Network|[:link:官网](https://console.henet.uk/#/register?code=84Nb9Jzl)||
 |:--|:--:|:--:|
 |套餐名称|流量情况|价格|
 |Bronze🚀(12个月起)|200G/月|￥50/年|
