@@ -32,7 +32,7 @@
 </details>
 
 <details>
-   <summary>Openclah</summary>    
+   <summary>Openclash</summary>    
    
 * #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/Openclash)
    
