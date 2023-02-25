@@ -16,6 +16,7 @@
    <summary>Shadowrocket</summary> 
    
 * #### [***配置文件***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/ShadowRocket/ShadowRocket.conf) 
+* #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/Shadowrocket)
    
 </details>
 
