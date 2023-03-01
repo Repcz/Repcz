@@ -1,4 +1,4 @@
-## 自用配置
+## 自用
 > ***本库内容禁止公众号、自媒体进行任何形式的转载或发布***
 
 <details>
@@ -48,12 +48,11 @@
 </details>
 
 <details>
-   <summary>订阅转换配置</summary>    
+   <summary>订阅转换</summary>    
    
-* #### [***自动测速版***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/Online_Full_Auto.ini) | [***无自动测速版***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/Online_Full_NoAuto.ini) 
-* #### 在线订阅转换： [***ACL4SSR***](https://acl4ssr-sub.github.io/) | [***肥羊订阅转换***](https://sub.v1.mk/)
-* #### 自建后端下载：[***subconverter***](https://github.com/tindy2013/subconverter/releases)
-* #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/Clash-For-Windows#%E8%AE%A2%E9%98%85%E9%85%8D%E7%BD%AE%E8%BD%AC%E6%8D%A2)
+* #### [在线订阅转换（不推荐）](https://github.com/Repcz/Open-Proflies/wiki/Clash-For-Windows#%E5%9C%A8%E7%BA%BF%E8%AE%A2%E9%98%85%E8%BD%AC%E6%8D%A2%E4%B8%8D%E6%8E%A8%E8%8D%90)
+* #### [本地订阅转换（推荐）](https://github.com/Repcz/Open-Proflies/wiki/%E8%87%AA%E5%BB%BAsubconverter%E8%AE%A2%E9%98%85%E8%BD%AC%E6%8D%A2)
+   
    
 </details>
 
@@ -84,7 +83,7 @@
   
  #### 排名不分先后,如有遗漏请提醒补充：
 
-[*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@App2smile*](https://github.com/app2smile/rules)  [*@Peng-YM*](https://github.com/Peng-YM) [*@Nick-workflow*](https://github.com/Nick-workflow) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Neurogram-R*](https://github.com/Neurogram-R) [*@yjqiang*](https://github.com/yjqiang) [*@O7Y0*](https://github.com/O7Y0) [*@Choler*](https://github.com/Choler) [*@id77*](https://github.com/id77) [*@zmqcherish*](https://github.com/zmqcherish) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@kyle*](https://github.com/Xirou) [*@HotKids*](https://github.com/hotKids) [*@langkach*](https://github.com/langkhach270389) [*@lxk0301*](https://github.com/lxk0301) [*@zqzess*](https://github.com/zqzess/rule_for_quantumultX) [*@Anti-AD*](https://github.com/privacy-protection-tools/anti-AD) [*@VirgilClyne*](https://github.com/VirgilClyne/iRingo#iringo) [*@zZPiglet*](https://github.com/zZPiglet/Task/tree/master) [*@Chavyleung*](https://github.com/chavyleung) [*@tugepaopao*](https://github.com/tugepaopao/Image-Storage) [*@Yuanxsxs*](https://github.com/Yuanxsxs) [*@LovedGM*](https://github.com/LovedGM/Quantumult-X-TuBiao) [*@Semporia*](https://github.com/Semporia) [*@Koolson*](https://github.com/Koolson) [*@deezertidal*](https://github.com/deezertidal) [*@I-am-R-E*](https://github.com/I-am-R-E) [*@Hackl0us*](https://github.com/Hackl0us) [*@ddgksf2013*](https://github.com/ddgksf2013/) [*@ACL4SSR*](https://github.com/ACL4SSR/ACL4SSR) [*不良林*](https://bulianglin.com/)
+[*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@App2smile*](https://github.com/app2smile/rules)  [*@Peng-YM*](https://github.com/Peng-YM) [*@Nick-workflow*](https://github.com/Nick-workflow) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Neurogram-R*](https://github.com/Neurogram-R) [*@yjqiang*](https://github.com/yjqiang) [*@O7Y0*](https://github.com/O7Y0) [*@Choler*](https://github.com/Choler) [*@id77*](https://github.com/id77) [*@zmqcherish*](https://github.com/zmqcherish) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@kyle*](https://github.com/Xirou) [*@HotKids*](https://github.com/hotKids) [*@langkach*](https://github.com/langkhach270389) [*@lxk0301*](https://github.com/lxk0301) [*@zqzess*](https://github.com/zqzess/rule_for_quantumultX) [*@Anti-AD*](https://github.com/privacy-protection-tools/anti-AD) [*@VirgilClyne*](https://github.com/VirgilClyne/iRingo#iringo) [*@zZPiglet*](https://github.com/zZPiglet/Task/tree/master) [*@Chavyleung*](https://github.com/chavyleung) [*@tugepaopao*](https://github.com/tugepaopao/Image-Storage) [*@Yuanxsxs*](https://github.com/Yuanxsxs) [*@LovedGM*](https://github.com/LovedGM/Quantumult-X-TuBiao) [*@Semporia*](https://github.com/Semporia) [*@Koolson*](https://github.com/Koolson) [*@deezertidal*](https://github.com/deezertidal) [*@I-am-R-E*](https://github.com/I-am-R-E) [*@Hackl0us*](https://github.com/Hackl0us) [*@ddgksf2013*](https://github.com/ddgksf2013/) [*@ACL4SSR*](https://github.com/ACL4SSR/ACL4SSR) [*不良林*](https://bulianglin.com/) [*@tindy2013*](https://github.com/tindy2013) [*@s1oz*](https://s1oz.github.io/)
 
  </details>
 
