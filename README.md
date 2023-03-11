@@ -43,7 +43,7 @@
 <details>
    <summary>Stash</summary>    
    
-* #### [***配置文件***](https://ghproxy.com/https://github.com/Repcz/Open-Proflies/raw/main/Stash/Stash.yaml) (包含去广告等多种分流规则)
+* #### [***完整文件***](https://ghproxy.com/https://github.com/Repcz/Open-Proflies/raw/main/Stash/Stash.yaml) (包含去广告等多种分流规则)
 * #### [***简洁配置***](https://ghproxy.com/https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Stash/Stash_lite.yaml) (仅支持国外分流，占用内存更小)
 * #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/Stash)
 
