@@ -92,12 +92,12 @@
 
  </details>
 
- <details>
-  <summary>AD</summary>
+AD
+---
    
 > 根据自身网络环境选择，建议月付或季付
 
-|☄️Helium Network|[:link:官网](https://console.henet.uk/#/register?code=84Nb9Jzl)||
+|☄️Helium Network|[:link:官网](https://console.henet.uk/#/register?code=84Nb9Jzl)|中转机场|
 |:--|:--:|:--:|
 |套餐名称|流量情况|价格|
 |Bronze🚀(12个月起)|200G/月|￥50/年|
@@ -109,6 +109,9 @@
 |400G不限时🚀|400G|￥20/一次性|
 |800G不限时🚀|800G|￥40/一次性|
 
- </details>
+|☄️北海网络|[:link:官网](https://beihaiwangluo.com/#/register?code=Ss0xE2SQ)|IEPL专线机场|
+|:--|:--:|:--:|
+|套餐名称|流量情况|价格|
+|Standard|不限流量/月|￥19/月|
 
 
