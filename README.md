@@ -32,6 +32,7 @@
 * #### [***完整配置***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/CFW.yaml) (包含去广告等多种分流规则)
 * #### [***简洁配置***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/CFW_lite.yaml) (仅支持国外分流)
 * #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/Clash-For-Windows)
+* #### [***小白方法***](https://github.com/Repcz/Open-Proflies/wiki/Clash-For-Windows#%E8%AE%A2%E9%98%85%E8%BD%AC%E6%8D%A2%E6%87%92%E4%BA%BA%E6%96%B9%E6%B3%95)
    
 </details>
 
