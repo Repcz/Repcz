@@ -18,7 +18,7 @@
    <summary>Shadowrocket</summary> 
    
 * #### [***完整配置***](https://ghproxy.com/https://raw.githubusercontent.com/Repcz/Open-Proflies/main/ShadowRocket/ShadowRocket.conf) (包含去广告等多种分流规则)
-* #### [***简洁配置***](https://ghproxy.com/https://raw.githubusercontent.com/Repcz/Open-Proflies/main/ShadowRocket/ShadowRocket_lite.conf) (仅支持国外分流,占用内存更小)
+* #### [***轻量配置***](https://ghproxy.com/https://raw.githubusercontent.com/Repcz/Open-Proflies/main/ShadowRocket/ShadowRocket_lite.conf) (仅支持国外分流,占用内存更小)
 * #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/Shadowrocket)
    
 </details>
@@ -30,7 +30,7 @@
    <summary>Clash For Windows</summary>    
    
 * #### [***完整配置***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/CFW.yaml) (包含去广告等多种分流规则)
-* #### [***简洁配置***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/CFW_lite.yaml) (仅支持国外分流)
+* #### [***轻量配置***](https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/CFW_lite.yaml) (仅支持国外分流)
 * #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/Clash-For-Windows)
 * #### [***小白方法***](https://github.com/Repcz/Open-Proflies/wiki/Clash-For-Windows#%E8%AE%A2%E9%98%85%E8%BD%AC%E6%8D%A2%E6%87%92%E4%BA%BA%E6%96%B9%E6%B3%95)
    
@@ -47,7 +47,7 @@
    <summary>Stash</summary>    
    
 * #### [***完整文件***](https://ghproxy.com/https://github.com/Repcz/Open-Proflies/raw/main/Stash/Stash.yaml) (包含去广告等多种分流规则)
-* #### [***简洁配置***](https://ghproxy.com/https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Stash/Stash_lite.yaml) (仅支持国外分流，占用内存更小)
+* #### [***轻量配置***](https://ghproxy.com/https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Stash/Stash_lite.yaml) (仅支持国外分流，占用内存更小)
 * #### [***使用方法***](https://github.com/Repcz/Open-Proflies/wiki/Stash)
 
    
