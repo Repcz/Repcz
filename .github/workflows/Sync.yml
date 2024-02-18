@@ -1,0 +1,43 @@
+name: Sync README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "* 1 * * *"
+  
+jobs:
+  Fork-FLITER-list:
+    runs-on: ubuntu-latest
+    env:
+      TZ: 'Asia/Shanghai'
+    
+    steps: 
+    - name: Checkout target repository
+      uses: actions/checkout@v4.1.0
+      with:
+        repository: Repcz/Repcz
+        path: Repcz-repo
+    
+    - name: Auto Sync
+      run: |
+        mkdir -p Repcz-repo
+        curl -L -o Repcz-repo/README.md "https://raw.githubusercontent.com/Repcz/Tool/X/README.md"
+
+    - name: Add and Commits
+      run: |
+        cd Repcz-repo
+        if [[ -n $(git status -s) ]]; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Auto Sync $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
+          git push origin HEAD
+        else
+          echo "No changes to commit."
+        fi
+
+    - name: Cleanup Workflow
+      uses: Mattraks/delete-workflow-runs@main
+      with:
+        retain_days: 0
+        keep_minimum_runs: 2
