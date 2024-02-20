@@ -1,5 +1,9 @@
-## 自用 勿Fork
-> **🚨🚨禁止任何形式的转载或发布至国内平台🚨🚨**
+# Tool
+
+>自用 勿Fork
+>
+> **禁止任何形式的转载或发布至国内平台**
+
 
 [![tg](https://img.shields.io/badge/Telegram-LᴜᴄʏCʜᴀɴɴᴇʟ-blue)](https://t.me/QVQ_Channel)
 
@@ -27,7 +31,7 @@ Clash
 * [Clash Verge 配置 | 适配3个机场](https://github.com/Repcz/Tool/raw/X/Clash/Meta/ClashVerge_③.yaml)
 * [订阅转换配置 | 流媒体自动配置](https://github.com/Repcz/Tool/raw/X/Clash/Meta/Online_Full_Auto.ini)
 * [订阅转换配置 | 流媒体手动配置](https://github.com/Repcz/Tool/raw/X/Clash/Meta/Online_Full_NoAuto.ini)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Clash/README.MD)
+* [使用方法](https://repcz.github.io/Tool/#/clash/doc)
 
 #### Clash 规则
 
@@ -40,7 +44,7 @@ Egern
 
 
 * [自用配置](https://github.com/Repcz/Tool/raw/X/Egern/Egern.yaml)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Egern/README.md)
+* [使用方法](https://repcz.github.io/Tool/#/egern/doc)
 * [自用规则库](https://github.com/Repcz/Tool/blob/X/Egern/Rules)
 * [blackmatrix7规则库](https://github.com/Repcz/EgernRules)
 
@@ -51,7 +55,7 @@ Loon
 
 
 * [自用配置](https://github.com/Repcz/Tool/raw/X/Loon/Loon.conf)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Loon/README.MD)
+* [使用方法](https://repcz.github.io/Tool/#/loon/doc)
 * [自用规则库](https://github.com/Repcz/Tool/blob/X/Loon/Rules)
 
 QuantumultX
@@ -62,7 +66,7 @@ QuantumultX
 * [自用配置](https://github.com/Repcz/Tool/raw/X/QuantumultX/QuantumultX.conf)
 * [自用配置 | 进阶](https://github.com/Repcz/Tool/raw/X/QuantumultX/QuantumultX_Pro.conf)
 * [自用配置 | tvOS](https://github.com/Repcz/Tool/raw/X/QuantumultX/QuantumultX_tvOS.conf)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/QuantumultX/README.MD)
+* [使用方法](https://repcz.github.io/Tool/#/quantumutx/doc)
 * [自用规则库](https://github.com/Repcz/Tool/blob/X/QuantumultX/Rules)
 
 Shadowrocket
@@ -72,7 +76,7 @@ Shadowrocket
 
 
 * [自用配置](https://github.com/Repcz/Tool/raw/X/Shadowrocket/Shadowrocket.conf)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Shadowrocket/README.MD)
+* [使用方法](https://repcz.github.io/Tool/#/shadowrocket/doc)
 * [自用规则库](https://github.com/Repcz/Tool/blob/X/Shadowrocket/Rules)
 
 Stash
@@ -83,7 +87,7 @@ Stash
 
 * [自用配置](https://github.com/Repcz/Tool/raw/X/Stash/Stash.yaml)
 * [自用配置 | 轻量](https://github.com/Repcz/Tool/raw/X/Stash/Stash_lite.yaml)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Stash/README.MD)
+* [使用方法](https://repcz.github.io/Tool/#/stash/doc)
 * [自用规则库](https://github.com/Repcz/Tool/blob/X/Stash/Rules)
 
 Surfboard
@@ -95,7 +99,7 @@ Surfboard
 * [自用配置](https://github.com/Repcz/Tool/raw/X/Surfboard/Surfboard.conf)
 * [订阅转换配置 | 自动配置](https://github.com/Repcz/Tool/raw/X/Surfboard/Online_Full_Auto.ini)
 * [订阅转换配置 | 手动配置](https://github.com/Repcz/Tool/raw/X/Surfboard/Online_Full_NoAuto.ini)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Surfboard/README.MD)
+* [使用方法](https://repcz.github.io/Tool/#/surfboard/doc)
 
 
 Surge
@@ -105,7 +109,7 @@ Surge
 
 
 * [自用配置](https://github.com/Repcz/Tool/raw/X/Surge/Surge.conf)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Surge/README.MD)
+* [使用方法](https://repcz.github.io/Tool/#/surge/doc)
 * [自用规则库](https://github.com/Repcz/Tool/blob/X/Surge/Rules)
 
 
@@ -154,6 +158,7 @@ Surge
 - [@ddgksf2013](https://github.com/ddgksf2013/)
 - [@DivineEngine](https://github.com/DivineEngine)
 - [@dler-io](https://github.com/dler-io/Rules)
+- [@docsifyjs](https://github.com/docsifyjs)
 - [@fmz200](https://github.com/fmz200)
 - [@GetSomeCats](https://github.com/getsomecat)
 - [@Hackl0us](https://github.com/Hackl0us)
@@ -184,5 +189,45 @@ Surge
 - [@zZPiglet](https://github.com/zZPiglet/Task/tree/master)
 - [@ZenmoFeiShi](https://github.com/ZenmoFeiShi)
 - [不良林](https://bulianglin.com/)
+
+ </details>
+
+<details>
+  <summary>广而告之</summary>
+
+
+### [Flower CLoud](https://flowercloud.net/aff.php?aff=5145)
+ - 流媒体解锁 | 冷门国家
+ - IEPL 专线 SS & Trojan 节点
+ - 实验性 0.2x 倍率节点
+ - [每月优惠](https://t.me/flower_cloud/288)
+ - 套餐如下：
+
+![flowerclod](https://raw.githubusercontent.com/Repcz/Tool/X/docs/aff/FlowerCloud.png)
+
+### [Academy City Airport](https://www.aca.best/#/register?code=J9Vf5lbX)
+ - 流媒体解锁 | 冷门国家 | 家宽节点
+ - 公网中转 SS 节点
+ - 0.2x 倍率节点 | Emby 0.01x倍率节点 | 3x 家宽节点
+ - 送 MisakaF 合作 Emby
+ - 套餐如下：
+
+![aca](https://raw.githubusercontent.com/Repcz/Tool/X/docs/aff/ACA.png)
+
+### [私房菜](https://cos.cat/ui/#/register?code=pwP8wJIq)
+ - 流媒体解锁 | 冷门国家
+ - 公网中转 SS 节点 | 优化直连 VLess、Hysteria2 节点 | IPLC 专线 SS 节点
+ - 直连低倍率节点 | 低倍率 卢森堡 下载节点 | 高倍率专线
+ - 送 卷毛鼠 合作 Emby
+ - 套餐如下：
+
+![sfc](https://raw.githubusercontent.com/Repcz/Tool/X/docs/aff/SFC.PNG)
+
+
+### [XQC Retard](https://www.xqc.best/#/register?code=zwB37FuC)
+ - [Academy City Airport](https://www.aca.best/#/register?code=J9Vf5lbX) 家的公益机场
+ - Vless Reality xtls-rprx-vision 协议
+ - 目前 0 元购
+ - 支持 Shadowrocket、V2ray/Xray、sing-box、mihomo(Clash Meta)
 
  </details>
