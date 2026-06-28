@@ -1,14 +1,7 @@
-<p align="center">
-  <img src="https://visitor-badge.lithub.cc/badge?page_id=repcz.repcz&left_text=访问量&right_color=gray" alt="访问量" />
-</p>
-
 ---
 
 > [!CAUTION]
 > **禁止任何形式的转载或发布至国内平台**
-
-> [!WARNING]
-> **禁止 FORK**
 
 ---
 
